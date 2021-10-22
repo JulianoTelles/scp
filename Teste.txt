@@ -1,0 +1,10 @@
+ O volume na unidade D n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 824B-7BAE
+
+ Pasta de D:\fontes\scp
+
+22/10/2021  13:44    <DIR>          .
+22/10/2021  13:44    <DIR>          ..
+22/10/2021  13:44                 0 Teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   815.356.887.040 bytes dispon°veis
